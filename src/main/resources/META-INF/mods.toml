@@ -12,7 +12,7 @@ version="1.15.2-31.1.0" #mandatory
 
 displayName="All Golems Again" #mandatory
 
-updateJSONURL="http://myurl.me/" #optional
+#updateJSONURL="http://myurl.me/" #optional
 
 displayURL="http://example.com/" #optional
 
