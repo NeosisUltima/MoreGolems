@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "allgolemsagain:items/gold_egg"
+  }
+}

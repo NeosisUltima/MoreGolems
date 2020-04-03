@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ixi",
+    "iIi",
+    "iii"
+  ],
+  "key": {
+    "i" : {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:egg"
+    },
+    "x": {
+      "item": "minecraft:carved_pumpkin"
+    }
+  },
+  "result" : {
+    "item": "allgolemsagain:redstone_golem_egg"
+  }
+}

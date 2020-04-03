@@ -1,0 +1,24 @@
+{
+  "item.allgolemsagain.wood_golem_egg": "Wood Golem Egg",
+  "item.allgolemsagain.stone_golem_egg": "Stone Golem Egg",
+  "item.allgolemsagain.diamond_golem_egg": "Diamond Golem Egg",
+  "item.allgolemsagain.gold_golem_egg": "Gold Golem Egg",
+  "item.allgolemsagain.redstone_golem_egg": "Redstone Golem Egg",
+  "item.allgolemsagain.emerald_golem_egg": "Emerald Golem Egg",
+
+  "item.wood_golem_egg.name": "Wood Golem Egg",
+  "item.stone_golem_egg.name": "Stone Golem Egg",
+  "item.diamond_golem_egg.name": "Diamond Golem Egg",
+  "item.gold_golem_egg.name": "Gold Golem Egg",
+  "item.redstone_golem_egg.name": "Redstone Golem Egg",
+  "item.emerald_golem_egg.name": "Emerald Golem Egg",
+
+  "itemGroup.allgolemsagain": "All Golems Again",
+
+  "entity.allgolemsagain.wood_golem": "Wood Golem",
+  "entity.allgolemsagain.stone_golem": "Stone Golem",
+  "entity.allgolemsagain.diamond_golem": "Diamond Golem",
+  "entity.allgolemsagain.gold_golem": "Gold Golem",
+  "entity.allgolemsagain.redstone_golem": "Redstone Golem",
+  "entity.allgolemsagain.emerald_golem": "Emerald Golem"
+}

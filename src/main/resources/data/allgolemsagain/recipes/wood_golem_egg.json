@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ixi",
+    "iIi",
+    "iii"
+  ],
+  "key": {
+    "i" : {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "minecraft:egg"
+    },
+    "x": {
+      "item": "minecraft:carved_pumpkin"
+    }
+  },
+  "result" : {
+    "item": "allgolemsagain:wood_golem_egg"
+  }
+}
